@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+    <h1> Learning to Build a Webpage</h1>
+    <h2> Learning to code</h2>
+  <img src=https://images.unsplash.com/photo-1503945438517-f65904a52ce6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczMDcyMDR8&ixlib=rb-4.1.0&q=85
+   
+    <h3>This is my first attempt</h3>
+     <p> I am building my first webpage<br> It is a new skill, I have never done this before. <br> It has been a challenge, but also fun. My webpage will be very basic, but I will show you what I have learnt to do so far.</p>
+    
+    <h3>This is what I have completed:</h3>
+    <ul>
+      <li>I can create a list</li>
+      <li>I can add an image</li>
+      <li>I can add a heading</li> 
+      <li> I can change the font</li>
+      <li> I can change the background colour</li>
+      </ul>
+           
+      <h4> I can also change the font colour </h4>
+  <p>Learning to build my own webpage has helped me understand how websites are made and how coding works. My website is still basic, but I am proud of what I have learnt and will continue to practice so I can improve and continue to learn. The key to this will be practising.</p>
+    <img src=https://images.unsplash.com/photo-1759661937582-0ccd5dacf20f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczMDc5OTN8&ixlib=rb-4.1.0&q=85
+    
+
+  
+     
+  <img src=https://images.unsplash.com/photo-1698047681469-8e0c19e80a66?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczMDM5ODB8&ixlib=rb-4.1.0&q=85>
+    <h5>I have learnt some important skills by completing the exercises and I looking forward to learning more.</h5> 
+
+      
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pen</title>
+  </head>
+  <body>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+ody {background-color: lightblue;
+  font-family: Arial, sans-serif;}
+
+h1 {text-align: center;
+  color: purple;
+  background-color: pink;
+  font-size: 50px;}
+
+
+img {width: 400px; 
+     display: block; 
+     margin:30px auto; 
+     border:2px solid purple;}
+
+p{font-size:18px;font-family:Arial,sans-serif;margin:20px;}
+
+h2{font-family:Arial,sans-serif;}
+h3{font-family:Arial,sans-serif;}
+
+ul, li {font-family: Arial, sans-serif;font-size: 18px;}
+
+h4{text-align:center;color:purple;font-size:20px;font-family:Aptos,sans-serif;}
+
+h5{text-align:center;color:purple;font-size:30px;font-family:Aptos,sans-serif;}
+
+
+
+
